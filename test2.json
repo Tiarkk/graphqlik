@@ -1,0 +1,35 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users",
+    "@odata.nextLink": "https://graph.microsoft.com/v1.0/users?$skiptoken=RFNwwewwww",
+    "value": [
+        {
+            "businessPhones": [
+		"+1 425 555 0109",
+		"+1 425 555 0889"
+		],
+            "displayName": "john doe",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": null,
+            "mobilePhone": null,
+            "officeLocation": null,
+            "preferredLanguage": null,
+            "surname": null,
+            "userPrincipalName": "10000@swagers.onmicrosoft.com",
+            "id": "c76e7ff4-g234-322a-422-4234v4"
+        },
+        {
+            "businessPhones": [],
+            "displayName": "Rob Otter",
+            "givenName": null,
+            "jobTitle": null,
+            "mail": "Rob@tter.de",
+            "mobilePhone": null,
+            "officeLocation": null,
+            "preferredLanguage": null,
+            "surname": null,
+            "userPrincipalName": "erecxccccc@swagers.onmicrosoft.com",
+            "id": "ereveve-eef-4vrvrderrfrva-rgfgrg-rgrbfd344"
+        }
+    ]
+}
