@@ -1,0 +1,28 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#Collection(microsoft.graph.plannerPlan)",
+    "@odata.count": 1,
+    "value": [
+        {
+            "@odata.etag": "W/\"JzEtUGAdCc=\"",
+            "createdDateTime": "2015-06-11T10:03:11.5368567Z",
+            "owner": "48f0cded-cgfd-4efe-93c8-f5d8ewd882e61",
+            "title": "Forme",
+            "id": "TgJl48VB604GENCWNF1ZcAF8Gk",
+            "createdBy": {
+                "user": {
+                    "displayName": null,
+                    "id": "ed1298d6-aa3-4b77-a4da-bf31cf5e575b"
+                },
+                "application": {
+                    "displayName": null,
+                    "id": "09afdfd-ed24-44ee-a2d3-a627aa1c90f4"
+                }
+            },
+            "container": {
+                "containerId": "48f31ded-cddd-4efe-93c8-f5d842882e21",
+                "type": "group",
+                "url": "https://graph.microsoft.com/v1.0/groups/48f31ded-cddd-4efe-93c8-f5d842882e21"
+            }
+        }
+    ]
+}
